@@ -1,0 +1,1 @@
+{"version":3,"file":"404.js","sourceRoot":"","sources":["../../errors/404.ts"],"names":[],"mappings":";;;AAEA;;GAEG;AAEH,MAAM,QAAQ,GAAG,CAAC,GAAa,EAAE,GAAc,EAAE,IAAkB,EAAE,EAAE;IAEnE,GAAG,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC,IAAI,CAAC;QACjB,GAAG,EAAE,gBAAgB;KACxB,CAAC,CAAA;AAEN,CAAC,CAAC;AAGE,4BAAQ"}
